@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/urosbmx/cypress/issues"
   },
-  "homepage": "https://github.com/urosbmx/cypress#readme"
+  "homepage": "https://github.com/urosbmx/cypress#readme",
+  "dependencies": {
+    "cypress": "^13.3.1"
+  }
 }
