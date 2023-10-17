@@ -19,10 +19,7 @@ jobs:
           node-version: 14  # Adjust to your project's Node.js version
 
       - name: Install dependencies
-        run: npm install
-
-      - name: Install Cypress
-        run: npm install cypress --save-dev
+        run: npm install cypress
 
       - name: Run Cypress tests
         run: npx cypress run 
