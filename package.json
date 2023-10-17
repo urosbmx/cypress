@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Test-cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urosbmx/cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Uros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urosbmx/cypress/issues"
+  },
+  "homepage": "https://github.com/urosbmx/cypress#readme"
+}
