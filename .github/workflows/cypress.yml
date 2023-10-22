@@ -1,5 +1,5 @@
-name: Cypress Tests
-on: [push]
+name: Cypress Cloud
+on: workflow_dispatch
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
