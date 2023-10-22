@@ -4,7 +4,8 @@
   "description": "Test-cypress",
   "main": "cypress.config.js",
   "scripts": {
-    "test": "npx cypress run --record"
+    "cloud": "npx cypress run --record"
+    "test": "npx cypress run"
   },
   "repository": {
     "type": "git",
